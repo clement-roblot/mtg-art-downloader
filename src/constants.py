@@ -31,6 +31,7 @@ class Console:
         Repeatedly check if new print messages have been added and output them.
         """
         while self.waiting:
+            time.sleep(0.1)
             with self.lock:
                 if len(self.out) > 0:
                     msg = self.out.pop(0)
