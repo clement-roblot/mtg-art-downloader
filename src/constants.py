@@ -57,8 +57,9 @@ class Console:
         Add a message to the output queue.
         @param message: Message to add to the queue.
         """
-        with self.lock:
-            self.out.append(message)
+        print(message)
+        # with self.lock:
+        #     self.out.append(message)
 
 
 con = Constants

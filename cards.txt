@@ -1,20 +1,81 @@
-Ancient Tomb (uma) 236
-Assassin's Trophy (2x2) 175
-Bala Ged Recovery // Bala Ged Sanctuary (znr) 180
-Beast Whisperer (pres) 123
-Beast Within (c21) 186
-Birds of Paradise (m12) 165
-Black Market Connections (clb) 669
-Blighted Woodland (clb) 881
-Bloodbond March (rav) 192
-Bloom Tender (2x2) 138
-Bojuka Bog (c20) 259
-Boseiju, Who Endures (neo) 266
-Cankerbloom (one) 161
-Command Tower (cmr) 350
-Damnation (2x2) 73
-Deadly Rollick (c20) 42
-Demonic Tutor (mb1) 620
-Diabolic Intent (bro) 89
-Echoing Return (mh2) 83
-Elves of Deep Shadow (rav) 161
+1 Varolz, the Scar-Striped (DGM) 112
+1 Agent Frank Horrigan (PIP) 405
+1 Alpha Deathclaw (PIP) 91
+1 Angel of Suffering (SNC) 67
+1 Argoth, Sanctum of Nature (BRO) 256a
+1 Boneyard Wurm (UMA) 159
+1 Bramble Familiar // Fetch Quest (WOE) 283
+1 Brawn (MOC) 292
+1 Bringer of the Last Gift (LCI) 94
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Cankerbloom (ONE) 294
+1 Circle of the Land Druid (CLB) 220
+1 Clay Golem (AFC) 58
+1 Corpsejack Menace (PIP) 742 *F*
+1 Daemogoth Titan (STX) 174
+1 Dakmor Salvage (UMA) 240
+1 Death's Shadow (MM3) 64
+1 Deathcap Cultivator (SOI) 202
+1 Dreadhound (MID) 97
+1 Eerie Soultender (DMU) 92
+1 Egon, God of Death // Throne of Death (KHM) 92
+1 Fabled Passage (PELD) 244s *F*
+1 Faunsbane Troll (WOE) 203
+1 Force of Savagery (FUT) 126
+13 Forest (M21) 272
+1 Genesis (SLC) 2002
+1 Glowspore Shaman (2X2) 220
+1 Golgari Grave-Troll (RVR) 348
+1 Grim Giganotosaurus (REX) 11
+1 Grismold, the Dreadsower (C19) 44
+1 Groundbreaker (PLC) 148
+1 Guardian Augmenter (C21) 62
+1 Gyre Sage (GTC) 123
+1 Haunted Mire (DMU) 248
+1 Honest Rutstein (OTJ) 207
+1 Hunted Horror (CLB) 758
+1 Hunted Troll (RAV) 170
+1 Kami of Whispered Hopes (MOM) 196
+1 Kodama of the West Tree (NEO) 199
+1 Llanowar Dead (APC) 109
+1 Lord of Extinction (UMA) 203
+1 Lotleth Troll (2X2) 245
+1 Massacre Girl, Known Killer (MKM) 344
+1 Memorial to Folly (DOM) 242
+1 Minas Morgul, Dark Fortress (LTC) 558 *F*
+1 Mire Triton (CMM) 174
+1 Mortuary Mire (AFC) 249
+1 Necron Deathmark (40K) 42
+1 Nessian Boar (THB) 181
+1 Nyx Weaver (CMM) 933
+1 Nyxathid (JMP) 259
+1 Old Stickfingers (MID) 321
+1 Phyrexian Soulgorger (PLST) CSP-141
+1 Plague Reaver (CMR) 143
+1 Relic Golem (ZNR) 249
+1 Riveteers Overlook (SNC) 255
+1 Rotting Regisaur (M20) 111
+1 Shakedown Heavy (SNC) 421
+1 Skull Prophet (IKO) 206
+1 Skullbriar, the Walking Grave (CM2) 165
+1 Soul of Innistrad (C18) 118
+1 Souls of the Lost (LCI) 121
+1 Splinterfright (2X2) 159
+1 Storrev, Devkarin Lich (WAR) 219
+10 Swamp (WOE) 272
+1 Takenuma, Abandoned Mire (PNEO) 278p
+1 The Gitrog, Ravenous Ride (OTJ) 206
+1 Titania, Nature's Force (BRC) 45
+1 Titania, Voice of Gaea (BRO) 193
+1 Tomb Fortress (40K) 168
+1 Topiary Stomper (SNC) 160
+1 Trollbred Guardian (RNA) 148
+1 Underground Mortuary (MKM) 271 *F*
+1 Verdant Catacombs (MH2) 260
+1 Vigor (PLST) BBD-215
+1 Witch's Cottage (ELD) 249
+1 Woodland Chasm (KHM) 274
+1 World Shaper (PRIX) 151p
+1 Yargle and Multani (MOM) 317
+1 Titania, Gaea Incarnate (BRO) 256b
+1 Umori, the Collector (IKO) 231
